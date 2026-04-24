@@ -11,3 +11,5 @@ vercel.com
 
 Chỉ cần tải file html về sao đó tạo tài khoảng trên 2 hosting này nếu bạn muốn có thể đầu tư tên miền 
 sau gửi file html là xong !
+Ngày cre 24/4/2026 
+Thank you Watching 
