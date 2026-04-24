@@ -1,3 +1,4 @@
-<img width="631" height="424" alt="brave_screenshot_www tiktok com" src="https://github.com/user-attachments/assets/5c1f5b8a-f7f1-4472-a205-e77942af600e" />
+<img width="631" height="424" alt="cccccc" src="https://github.com/user-attachments/assets/417c2a75-1b35-4e8a-813f-c0722bf2c790" />
+
 Cre : https://www.tiktok.com/@hanhtrinhdenuocmo
 
