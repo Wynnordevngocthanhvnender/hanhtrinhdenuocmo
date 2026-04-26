@@ -2,7 +2,7 @@
 
 Cre : https://www.tiktok.com/@hanhtrinhdenuocmo
 
-Đây là file html của hanhtrinhdenuocmo bản này tôi xin không cập nhập nữa nếu bên hanhtrinhdenuocmo có cập nhập bạn có thể lấy scr bên đó nha 
+Đây là file html trong mấy video của hanhtrinhdenuocmo bản này tôi xin không cập nhập nữa nếu bên hanhtrinhdenuocmo có cập nhập bạn có thể lấy scr bên đó nha 
 
 Cách tạo web nếu bạn muốn : 
 netlify.com
